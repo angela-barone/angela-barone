@@ -2,8 +2,6 @@
 
 
 
-😄  I'm currently a candidate for the Code First Girls Degree in Full-Stack Development
-
 🎓  I am a Law and Finance graduate currently switching to Tech.
 
 🌱  I’m on track for learning more about C#, .NET, ReactJS, Python, TypeScript and Cloud Architecture.
