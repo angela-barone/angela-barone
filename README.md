@@ -2,15 +2,6 @@
 
 
 
-🎓  I am a Law and Finance graduate currently switching to Tech.
-
-🌱  I’m on track for learning more about C#, .NET, ReactJS, Python, TypeScript and Cloud Architecture.
-
-🔭  I'm currently enrolled in the Codecademy's C# course and the Web Development one organized by Code First Girls.
-
-✍️  I have already completed multiple courses on Python, JavaScript, HTML and CSS.
-
-⚡  Fun fact: I speak Italian, English, French, Spanish, a little bit of Chinese and Korean. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
